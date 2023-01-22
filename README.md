@@ -1,4 +1,4 @@
-# monster-motor-2chanel-30A-Library
+# monster-motor-altium Library
 Monster Motor Library for altium Designer 
 
 
